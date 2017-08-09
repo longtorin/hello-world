@@ -1,2 +1,4 @@
 # hello-world
-Just exercise
+
+New stage of experience. Today we use an interpreter. 
+Tomorrow we will speak better than an American.
